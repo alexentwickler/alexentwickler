@@ -4,7 +4,7 @@
 
 Software Engineer with **5+ years** building scalable web/mobile solutions with React & React Native using modern stacks (Cloud, AI/ML) for agencies, SMBs, and enterprises.
 
-- 🔭 Currently building **NeuroKern SDK** — in-browser ML toolkit combining **Rust (WebAssembly)** with **TensorFlow.js**
+- 🔭 Currently building **NeuroKern SDK**: in-browser ML toolkit combining **Rust (WebAssembly)** with **TensorFlow.js**
 - 🌱 Gaining hands-on experience with **Rust**, **WebAssembly**, and client-side ML 
 - 💬 Ask me about **React performance**, **Web ML**, or **CI/CD automation**
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/alexentwickler)
